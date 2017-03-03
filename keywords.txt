@@ -1,0 +1,336 @@
+
+Infinitive, PRO, Complementation
+
+
+
+Verb grammaticalisation, Quotative
+
+
+
+
+Culioli, Enunciative operations
+Ellipsis, Sluicing, NP
+
+
+Verbal irony, Meta
+Exemplar
+
+
+
+
+Grammatical relations, Dative subject constructions, Indo
+
+
+
+
+
+
+A
+
+
+Transitive expletive construction
+
+
+Acquisition of phonology, Infant perception, Lexical tone
+
+
+Syntax, Semantics, Negation, Catalan, Spanish
+
+Argumentation Theory, Relevance Theory, Argumentative operators, Non
+Assimilation, Underspecification, Derived environment effects
+
+
+
+Parametric variation, Wh
+Demonstrative, N
+Morphology, Phonology, Clitics, Romanian mi
+
+
+
+
+Deficient
+
+
+Prepositions, Aphasia, Functional categories
+
+
+
+
+
+
+
+Predication, Verb movement, Functional projection, Expletives, Rich inflection, NP raising, Chain formation, Unmotivated movement
+Alignment, Vocalization, Spirantization, Featural faithfulness
+Case, Kase phrase, Dative, Morpho
+Merge, Universal coding, Variation, Case, Japanese
+
+Morphological case, Abstract case, Categorial features Parts and earlier versions of this paper were presented at the NELS
+Case, Abstract case, Grammatical relations, Morphology, Word order, Ergativ
+Case, Dative, Grammatical functions, Thematic roles, Secondary predicates, Adnominal genitives, Middle formation, Icelandic
+Case, Features, Hierarchy, Kashmiri, Tense, Tiwa Portions of this paper were presented at the Workshop on the Effects of Morphological Case, August
+Case, Concord, Serbo
+Structural case, Semantic case, Abstract case, Argument linking, Double object, Ditransitive verbs, German, Quechua
+
+Constraint ranking, Coda conditions, Toba Batak, Optimality theory I
+Universal quantifiers, Quantifier spreading, Symmetrical interpretation, Exhaus
+
+Cluster, Sequence, Language games, Representation
+Minimalist Program, Economy, Conceptual naturalness, Galilean science, Math
+
+
+Clefts, Pseudo
+Creole languages, Syllable structure, Optimality theory
+Generative metrics, Iambic pentameter, I
+Accent, Stress, Vowel length, Syllable structure, Indo
+
+
+
+
+
+
+Agree, Complementizer, Merge, Lexicalize, Phase, Phi
+
+
+
+
+
+Tibeto
+
+
+
+Lexicon, Memorization, Optimality, Phonology, Morphology, Regularity, Rules, Underlying representation The present article is a revised and updated version of the one published under the same title in the University of Maryland Working Papers in Linguistics, vol
+Rhetorical question
+SLI
+Optimality Theory, Lexical Phonology, Polish
+Case, Diachrony, Paradigm, Pronouns This paper is the
+
+Spirantization, Devoicing, Markedness, Obstruents, Effort reduction I am indebted to the anonymous reviewers that provided me with valuable suggestions to improve this paper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yilanguage,Occurrencetype,Experiential,Habitual,Periodical
+De
+Dutchphonology,Phonology
+
+
+NP,Phrasalmovement,Semitic,Lingua
+Positionalmarkedness,Constraintinventory,OptimalityTheory,Lingua
+Affective,Antipassive,Attributives,Bi
+
+Ablaut,Approximatives,Attributives,Circum
+
+Abaza,Abkhaz,Adyghe,Antipassive,Circassian,Consonantinventory,De
+Lastresortspellout,Encliticde
+FeatureHierarchy,Processingphi
+Phonologicalfeatures,Naturalclasses,OptimalityTheory
+Creole,Decategorialization,Desemanticization,Grammaticalization,Re
+
+
+
+Coordination,Semantics,Prosody
+Discoursestructure,Discourserelations,Discoursetopic,SDRT
+Relevance,Explicature,Juxtaposition,Denialofexpectation,Processingeffort,Inferentialrole,Discoursemarker,Independentstrengthening,Lingua
+Conjunctionphrases,Principlesandparameterstheory,Thedistributionofcoordinatestructures,Coordinatestructurescontainingmorethantwoconjuncts,Unbalancedcoordination
+RightNodeRaising,DynamicSyntax,Coordination,Rightdislocation,Lingua
+
+Bare
+Coordination,Conjunction,Adjunction,Syntax,Semantics,Lexicon,Minimalism,CCG
+Correlativeadverbs,CorrelativePhrase,Focusparticles,Scandinavianlanguages,Germanic,languages
+Conjunction,Agreement,Swahili,DynamicSyntax
+Antisymmetry,Conjunction,Modi
+ActiveMemory,Conjunction,Copy,a,Ellipsis,Matching,Prosody,Symmetry,Lingua
+Coordination,Subordination,Illocutionaryforce,Neutralization,
+Possessions,
+Barenouns,Semanticplural,Morphologicalplural,Parameterizationofplurality
+Predication,Nounphrasesyntax,Barenominals,BrazilianPortuguese,Spanish,French,Syntax,Morpho
+Intensionality,Nonspeci
+Inde
+
+Linguistics,Inde
+
+
+Syntacticelicitation,Non
+In
+
+Temporallobe,Cerebellum,Broca
+Lightverbs,Complexpredicates,Selectionalproperties,Persian
+Vowelharmony,Optimalitytheory,Morphology,www
+Negation,InformationStructure,Pragmatics,BrazilianPortuguese
+Multiplenominativeconstructions,Japanese,Predication,Focus,Possessors,Adjuncts
+Acquisition,Phonology,Universalgrammar,Input
+Sociolinguisticvariation,Socialmeaning,Competencegrammar,AAVE
+
+Resumptivepronouns,Dynamicsyntax,Grammaticality,Acceptability
+Conversationanalysis,Intuitions,Action,Sequentialplacement
+Discourse
+Intuitions,Agreement,Non
+Theoreticallinguistics,Syntax,Obtainingexampledata,Corpora,Corpusannotation,Agoodstartingpointforthispaperareeverydaylinguisticdiscussionslikethe,following
+Linguisticdata,Gradience,Grammaticality,Magnitudeestimation,OptimalityTheory
+Intuitions,Introspection,Methodology
+
+
+Acquisition,Generativedescritivism,Exaptiveexplanation,CrainandPietroski
+
+Phonologicalacquisition,Polishphonology,Extrasyllabicity,www
+Bantu,Kikuyu,Chingoni,Applicatives,VPellipsis,Objectasymmetries,UTAH
+Syntacticlocality,TreeAdjoiningGrammar,Phasetheory,Movement,Agreement
+Speci
+Greekdialects,Clitics,OptimalityTheory
+Languageacquisition,Wordorder,Negation,Hungarian,Lexicalisedconstructiontemplates
+Finnish,Negation,Wordorder,Contrast,Syntax
+Negation,Finno
+Negativeuniversalquanti
+
+NegativeConcord,Inde
+Hungariansyntax,Focus,Negation,Pragmatics,Epsiloncalculus
+
+
+VSOclauses,Welsh,Clausestructure
+
+
+Wordorder,NPsubjectinversion,French,Floatingquanti
+Ergativity,Focus,Discoursemotivations,Grammaranduse,Warrwa,www
+
+Syntax
+OptimalityTheory,Markedness,Autonomy,Grounding,Innateness,Phonology,Syntax,www
+Historyoflinguistics,Phonology,Syntax,Phonology
+Stylisticfronting,Icelandic,RepresentationalHypothesis,Verb
+Universalgrammar,Syntax
+Languageevolution,Syntax
+DependencyPhonology,GovernmentPhonology,DeclarativePhonology,StructuralAnalogy,Syntactico
+
+PRO,Overtsubjectsinnon
+Numerals,Prepositions,Approximation,Predicateinversion,Whenwethinkofnumerals,theconstructionthatusuallycomestomind
+Analogy,Instance
+Syntacticnominalization,Headraising,EPP,A
+
+
+Focus,Rightdislocation,Left
+Move,Chain,Re
+
+
+Dativeinterveners,Control,Raising,Merge,Case,Combinators
+Unaccusatives,Aphasia,Morphology,Argumentreduction,Functionalcategories
+Phonotacticrestrictions,Sonority,Modulationtheory
+Syntax,Domination,Phonology,Boundarysymbols,Recursion,Projection,C
+Downsyndrome,Modularity,Languageacquisition,Syntax,Binding,www
+Irony,Echoicuse,Relevancetheory,Pretence,Metarepresentation
+Autosegmentalphonology,Prosodicphonology,OptimalityTheory,Phonetics
+Plural,Irish,Scottish,Morphology,Semantics
+PRO,Overtsubjectsinnon
+
+
+Celticmutations,Word
+Reconstruction,Resumption,Relativization,Top
+Agreement,Locality,Breton,www
+Welsh,Asymmetriccoordination,Sententialcoordination
+Welsh,Syntax,Case,Consonantalmutation,www
+Welsh,Nounphrases,Adjectiveorder
+CaseTierHypothesis,OptimalityTheory,Typologyofcase,ABSTRACT,TheCaseTierHypothesis
+Idiosyncraticvs
+DifferentialObjectMarking,Hierarchies,AnimacyDe
+Caseellipsis,Casemarking,Focustypes,ContrastivenessAccessibility,Formminimization,ABSTRACT,ThispaperexaminestheeffectsoffocustypesonobjectcaseellipsisinKorean
+CaseTenseAspect,Mood,Optimalitytheory,MarkednessABSTRACT,Theaimofthisarticleistoaccountfortense
+Impersonalpassive,Telicity,IndividuationAgentivityAnimacyABSTRACT,Thispaperdiscussesthesemanticconstraintsonimpersonalpassivesinseverallanguages,,includingGermanandDutch
+
+Case,AccusativeMongolianEmbeddedsubjects,Subjecttoobjectraising,ABSTRACT,InMongolianthereareanumberofsubordinateclausesinwhichtheformofthe,subordinateclausesubjectalternatesbetweenthemorphologicallyunmarkednominative,caseandthemorphologicallymarkedaccusativecase
+
+
+Vowelsystems,Lowvowels,Distinctivefeatures,TranscriptionABSTRACT,Relativelylittleattentionhasbeenpaidtopossiblelowvowelsystemsintheworld
+Quanti
+Lexicalcategories,Mismatchingwords,Wordsclassi
+Broadsubjects,Hebrew,Leftdislocation,Multiplenominativeconstruction,ControlABSTRACT,InresponsetoDoronandHeycock
+Sentenceprocessing,Secondlanguageacquisition,Psycholinguistics,Ambiguityresolution,EnglishABSTRACT,Thisstudyinvestigatesthedegreetowhichreferentialcontextinformationin
+Copularsentences,Clefts,Speci
+
+Erosion,Exemplar,FrequencyFunctionword,Lenition,Paradigmlevelling,ABSTRACT,Thenotionof
+Macedonianphonology,Syllablestructure,OptimalityTheory,ABSTRACT,ThisarticleinvestigatessyllabicrepairsinMacedonian
+
+
+
+Taiwanesetonesandhi,OpacityReduplication,Wug
+SLIMinimalismBidirectionalcomputation,Movement,Functionalfeatures,BootstrappingABSTRACT,PossiblelociofSLI
+SLI,AfricanAmericanEnglish,wh
+Linguistictypology,Differentialcasemarking,AnimacyAgentInanimateAgents,Splitergativity,ABSTRACT,Thispaperinvestigatesthecross
+SLI,Whquestion,Comprehension,HebrewSySLISLIsubtypes,ABSTRACT,ThisstudyexploredWhquestioncomprehensioninHebrew
+French,Acquisition,SLI,Wh
+Epenthesis,Loanwordadaptation,AssimilationCoarticulationKoreanABSTRACT,Thispaperinvestigatesacousticpropertiesofepentheticvowelsusedintheadaptationof,Englishloanwordswith
+Highapplicative,Non
+Speci
+Complementizers,SubordinationLanguageacquisition,Languagedisorders,SLIABSTRACT,ThisstudyaimstoreportonthepatternofuseofcomplementizersbyGreekSLIchildrenas,wellasdescribedifferencesand
+
+SLIWh
+Languageacquisition,Languageimpairment,SLIWh
+Acquisition,French,SLI,Mild
+Languageacquisition,G
+Sentenceprocessing,Surfaceandunderlyingrepresentations,In
