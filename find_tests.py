@@ -78,16 +78,44 @@ def make_table(path, data_file):
                     art_keywords = get_keywords(full_path)
                     keywords += art_keywords + '\n'
                     article_line = '{};{};{};{};{};{}\n'.format(journal,
-                                                                      year,
-                                                                      issue,
-                                                                      first_author,
-                                                                      art_keywords,
-                                                                      full_path)
+                                                                year,
+                                                                issue,
+                                                                first_author,
+                                                                art_keywords,
+                                                                full_path)
                     f.write(article_line)
     with codecs.open('keywords.txt', 'w', encoding='utf-8') as f:
         f.write(keywords)
 
 
+def find_words(words_path, corpus_path, result_path):
+    words = get_words(words_path)
+    result = ''
+    for root, dirs, files in os.walk(corpus_path):
+        for name in files:
+            if name.endswith('.txt'):
+                file_path = os.path.join(root, name)
+                with codecs.open(file_path, 'r', encoding='utf-8') as f:
+                    text = f.read().lower()
+                    for word in words:
+                        m = re.findall(word, text, flags=re.M)
+                        c = len(m)
+                        if c > 0:
+                            result += 'in file {}: {}, {}\n'.format(file_path, word, c)
+    with codecs.open(result_path, 'w', encoding='utf-8') as f:
+        f.write(result)
+
+
+def get_words(path):
+    words = []
+    with codecs.open(path, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            words.append(line)
+    return words
+
+
 if __name__ == '__main__':
     #articles_to_txt('journals/pdf')
-    make_table('journals/txt', 'article_data.csv')
+    #make_table('journals/txt', 'article_data.csv')
+    find_words('query_words.txt', 'journals/txt', 'query_result.txt')

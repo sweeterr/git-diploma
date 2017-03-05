@@ -1,0 +1,7 @@
+t-test
+p-value
+chi-squared
+chi-square test
+chi-squaretest
+student's test
+student'stest

@@ -1,0 +1,14 @@
+in file journals/txt/Lingua/2001/04-07/Maling_2001_Lingua.txt: t-test, 1
+in file journals/txt/Lingua/2001/08/Kang_2001_Lingua.txt: p-value, 1
+in file journals/txt/Lingua/2001/10/Clahsen_2001_Lingua.txt: t-test, 1
+in file journals/txt/Lingua/2005/11/Bender_2005_Lingua.txt: t-test, 2
+in file journals/txt/Lingua/2006/03/Olsvay_2006_Lingua.txt: t-test, 1
+in file journals/txt/Lingua/2006/04/McGregor_2006_Lingua.txt: chi-squaretest, 1
+in file journals/txt/Lingua/2011/01/Lee_2011_Lingua.txt: chi-squaretest, 1
+in file journals/txt/Lingua/2011/01/Primus_2011_Lingua.txt: t-test, 1
+in file journals/txt/Lingua/2011/02/Pan_2011_Lingua.txt: t-test, 3
+in file journals/txt/Lingua/2011/03/Friedmann_2011_Lingua.txt: t-test, 10
+in file journals/txt/Lingua/2011/03/Kim_2011_Lingua.txt: t-test, 2
+in file journals/txt/Lingua/2011/03/Schulz_2011_Lingua.txt: t-test, 2
+in file journals/txt/Lingua/2011/03/van-der-Lely_2011_Lingua.txt: t-test, 1
+in file journals/txt/Lingua/2011/03/Xiang_2011_Lingua.txt: p-value, 1
