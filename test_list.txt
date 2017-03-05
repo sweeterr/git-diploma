@@ -1,0 +1,26 @@
+distribution test
+shapiro-wilk
+t-test
+wilcoxon
+kolmogorov-smirnov
+F-test
+linear regression
+correlation
+ANOVA
+PCA
+factor analysis
+correspondence analysis
+hierachical cluster analysis
+CART
+discriminant analysis
+mixed model
+z-test
+Mann-Whitney U test
+Sign test
+Nearest Neighbour Analysis
+fisher exact test
+cramer's v
+Goodman-Kruskal lambda
+Spearman’s rho
+Kendall’s tau
+parametric rank tests
