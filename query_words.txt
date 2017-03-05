@@ -5,3 +5,57 @@ chi-square test
 chi-squaretest
 student's test
 student'stest
+distribution test
+distributiontest
+shapiro-wilk
+wilcoxon
+kolmogorov-smirnov
+f-test
+linear regression
+linearregression
+#correlation
+anova
+[\W]pca
+principle component
+principlecomponent
+factor analysis
+factoranalysis
+correspondence analysis
+correspondenceanalysis
+hierachical cluster analysis
+hierachicalclusteranalysis
+[\W]cart[\W]
+correlation and regression tree
+correlationandregressiontree
+discriminant analysis
+discriminantanalysis
+mixed model
+mixedmodel
+z-test
+mann-whitney u test
+mann-whitney u-test
+mann-whitneyu-test
+mann-whitneyutest
+sign test
+signtest
+nearest neighbour analysis
+nearestneighbouranalysis
+fisher exact test
+fisherexacttest
+cramer's v
+cramer'sv
+cramer v
+cramerv
+goodman-kruskal lambda
+goodman-kruskallambda
+goodman-kruskal
+spearman’s rho
+spearman’srho
+spearman rho
+spearmanrho
+kendall’s tau
+kendall’stau
+kendalltau
+kendall tau
+rank test
+ranktest

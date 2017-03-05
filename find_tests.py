@@ -98,10 +98,11 @@ def find_words(words_path, corpus_path, result_path):
                 with codecs.open(file_path, 'r', encoding='utf-8') as f:
                     text = f.read().lower()
                     for word in words:
-                        m = re.findall(word, text, flags=re.M)
-                        c = len(m)
-                        if c > 0:
-                            result += 'in file {}: {}, {}\n'.format(file_path, word, c)
+                        if word[0] != '#':
+                            m = re.findall(word, text, flags=re.M)
+                            c = len(m)
+                            if c > 0:
+                                result += 'in file {}: {}, {}\n'.format(file_path, word, c)
     with codecs.open(result_path, 'w', encoding='utf-8') as f:
         f.write(result)
 
